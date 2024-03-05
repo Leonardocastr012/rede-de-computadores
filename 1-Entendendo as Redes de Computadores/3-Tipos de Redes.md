@@ -54,3 +54,20 @@
 * São criadas temporariamente quando os dispositivos precisam se comunicar sem uma infraestrutura de rede existente.
 * Usam tecnologias como Wi-Fi Direct e Bluetooth.
 * São convenientes para comunicação rápida e fácil.
+***
+**Tipos de redes com PAN e CAN incluídas:**
+
+* **Redes pessoais (PANs):** Conectam dispositivos pessoais próximos, como smartphones, laptops e impressoras. Exemplos: Bluetooth, Zigbee, NFC.
+* **Redes de área local (LANs):** Conectam dispositivos em uma área limitada, como uma casa ou escritório. Exemplos: Ethernet, Wi-Fi.
+* **Redes de área metropolitana (MANs):** Conectam dispositivos em uma cidade ou região. Exemplos: redes de cabo, DSL.
+* **Redes de longa distância (WANs):** Conectam dispositivos em grandes distâncias, como países ou continentes. Exemplos: redes de telefonia celular, redes de satélite.
+* **Redes de área do corpo (BANs):** Conectam dispositivos usados no corpo humano, como monitores de saúde e implantes. Exemplos: ANT+, Bluetooth Low Energy.
+* **Redes de área do veículo (VANs):** Conectam dispositivos em veículos, como sistemas de infoentretenimento e sensores de segurança. Exemplos: CAN, FlexRay.
+* **Redes industriais:** Conectam dispositivos em ambientes industriais, como fábricas e usinas de energia. Exemplos: Ethernet Industrial, Fieldbus.
+
+**PANs e CANs:**
+
+* **PANs** são usadas principalmente para conectar dispositivos pessoais próximos para comunicação de curto alcance e baixa potência.
+* **CANs** são usadas principalmente em aplicações automotivas e industriais para comunicação em tempo real e confiável em ambientes hostis.
+
+**Observação:** A CAN também pode ser usada em outras aplicações além de VANs, como sistemas de controle de processos e equipamentos médicos.
