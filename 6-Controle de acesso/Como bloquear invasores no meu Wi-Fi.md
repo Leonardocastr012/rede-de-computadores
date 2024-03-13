@@ -38,3 +38,10 @@
 **10. Esteja atento a sinais de invasão:**
 * Se você notar lentidão na rede, dispositivos desconhecidos conectados ou alterações nas configurações do roteador, pode ser um sinal de invasão.
 * Tome medidas imediatas para proteger sua rede.
+***
+### Como bloquear alguém na rede
+* Vai na configuração da rede, Avançado, Estatísticas, Instala o fing para saber os dispositivos, Segurança, Controle de Acesso, Seleciona o dispositivo e bloquea.
+### Como deixar a rede livre mas só permitir para alguns
+* Rede tem que tá aberta
+* Avançado, Segurança, Controle de Acesso, Lista de permitidos, seleciona os que você quer permitir e salva.
+* Adicione manualmente tendo o endereço MAC.
